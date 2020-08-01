@@ -15,7 +15,7 @@ we can get technology based on the company,demand.
 
 we can get company based on the technology , language they havce used.
 
-<img width="374" alt="tech" src="https://user-images.githubusercontent.com/60064405/89095734-55992b00-d3ee-11ea-8273-567e3f85d8c8.png">
+<img width="452" alt="comp" src="https://user-images.githubusercontent.com/60064405/89099485-3b227a00-d40d-11ea-8dd0-a6ff5ec2627c.png">
 
 we can get a language based on syntax , support and features
 
