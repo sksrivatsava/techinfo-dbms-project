@@ -21,7 +21,7 @@ we can get a language based on syntax , support and features
 
 <img width="375" alt="lang" src="https://user-images.githubusercontent.com/60064405/89095765-a6108880-d3ee-11ea-94ac-c74c6c0f71be.png">
 
-
+project start at pro1.py
 
 
 
